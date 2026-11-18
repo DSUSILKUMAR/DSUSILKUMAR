@@ -1,49 +1,70 @@
-# Hi there, I'm Susil Kumar 👋
+# Hi, I'm Susil Kumar 👋
 
-### 🎓 B.Tech Student | Aspiring Software Engineer | Speech AI Enthusiast
-> Building AI that understands *every* voice - even with noise & accents.
+### B.Tech AI & Data Science Graduate | Speech AI & Graph Database Projects | Open to Freelance, Remote and Full-time Roles
 
-📍 Coimbatore, Tamil Nadu, India
-🎯 Currently focused on: Speech-to-Text, Noise Robustness & Language Modeling
-🚀 Open to: Internships | 2027 Graduate Roles | Collaborations
+> Building AI that understands every voice, even with noise and accents.
+
+📍 Coimbatore & Chennai, Tamil Nadu, India
+📧 [susilk3079@gmail.com](mailto:susilk3079@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/susilkumar-devadoss-4aa7ab2a5)
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, SQL
-- **AI / ML:** Machine Learning, Speech Recognition, NLP, Language Modeling
+## What I do
+
+I build speech-to-text systems and graph-based recommendation engines. I can help with:
+
+- **Audio and video transcription pipelines**, including noisy recordings and Indian-accent speech
+- **Graph-based recommendation prototypes** using Neo4j
+- **Python automation and data cleaning**
+
+---
+
+## Tech Stack
+
+- **Languages:** Python, SQL, Cypher
+- **AI / ML:** Machine Learning, Deep Learning, Speech Recognition, NLP, Language Modeling
+- **Databases:** Neo4j (graph database), SQL
 - **Tools:** Git, GitHub, Librosa
 
 ---
 
-### 🔥 Featured Projects
+## Featured Projects
 
-#### 🎙️ 1. Speech-to-Text Transcription System with Noise Robustness
-Real-world noisy environment la kooda accurate ah transcribe panna system.
-**Tech:** Python, Librosa, Deep Learning
-[View Project](https://github.com/DSUSILKUMAR/Speech-to-Text-Transcription-System-With-Noise-Robustness)
+*Projects 2 to 4 were built in my 3rd year of college through the Naan Mudhalvan program with ServiceNow, where I led the project.*
 
-#### 🗣️ 2. Speech-To-Text System With Integrated Language Modeling
-Just transcribe pannama, Language Model integrate panni WER ah kuraiya vekkura system.
-**Tech:** Python, NLP, Language Modeling
-[View Project](https://github.com/DSUSILKUMAR/Speech-To-Text-System-With-Integrated-Language-Modeling)
+### 🎬 1. Graph-Based Movie Recommendation System (Neo4j)
+Final-year team project (4 members). A recommendation engine that models movies, genres, cast and directors as a graph and recommends titles through graph relationships.
+- **Dataset:** Netflix titles dataset
+- **Tech:** Python, Neo4j, Cypher
+- **My role:** Graph data modelling and recommendation logic
+- **Result:** [ADD: what the system recommends / how you evaluated it]
+- [View Project](ADD-REPO-LINK)
 
-#### 🌍 3. Accent-Aware Speech Recognition System
-Different accents irukura India la ella accent um purinjukura ASR.
-**Tech:** Python, ML, Speech Processing
-[View Project](https://github.com/DSUSILKUMAR/Accent-Aware-Speech-Recogonisiton-System)
+### 🎙️ 2. Speech-to-Text Transcription System with Noise Robustness
+Transcribes speech accurately even in noisy, real-world audio.
+- **Tech:** Python, Librosa, Deep Learning
+- **Result:** [ADD: WER before and after noise handling]
+- [View Project](https://github.com/DSUSILKUMAR/Speech-to-Text-Transcription-System-With-Noise-Robustness)
+
+### 🗣️ 3. Speech-to-Text System with Integrated Language Modeling
+Adds a language model on top of speech recognition to reduce Word Error Rate (WER).
+- **Tech:** Python, NLP, Language Modeling
+- **Result:** [ADD: WER with and without the language model]
+- [View Project](https://github.com/DSUSILKUMAR/Speech-To-Text-System-With-Integrated-Language-Modeling)
+
+### 🌍 4. Accent-Aware Speech Recognition System
+Speech recognition designed to handle different Indian accents.
+- **Tech:** Python, ML, Speech Processing
+- **Result:** [ADD: accuracy across accents]
+- [View Project](https://github.com/DSUSILKUMAR/Accent-Aware-Speech-Recogonisiton-System)
 
 ---
 
-### 📊 GitHub Stats
-![Susil's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSUSILKUMAR&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSUSILKUMAR&layout=compact&theme=tokyonight)
+## Open to Work
+
+Freelance projects | Remote roles | Full-time opportunities
+Contact: [susilk3079@gmail.com](mailto:susilk3079@gmail.com)
 
 ---
 
-### 📫 Connect With Me
-- **GitHub:** github.com/DSUSILKUMAR
-- **Location:** Coimbatore, India
-
----
-⭐ *If you like my work, don't forget to star the repos!*
+⭐ If you find my work useful, feel free to star the repos!
